@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor em formação e estudo programação desde 2022, com foco em compreender a fundo os conceitos da área. Atualmente, curso Análise e Desenvolvimento de Sistemas e venho me especializando em JavaScript, TypeScript e Node.js, com o objetivo de atuar como desenvolvedor Fullstack.
+<p align="left">Sou desenvolvedor em formação e estudo programação desde 2023, com foco em compreender a fundo os conceitos da área. Atualmente, curso Análise e Desenvolvimento de Sistemas e venho me especializando em JavaScript, TypeScript e Node.js, com o objetivo de atuar como desenvolvedor Fullstack.
 
 Tenho experiência prática em projetos pessoais e colaborativos, onde trabalhei com front-end, back-end e banco de dados, além de ter contribuído com melhorias de código e adição de novas funcionalidades. Acredito no aprendizado contínuo e busco sempre evoluir por meio de desafios reais, construindo soluções úteis e escaláveis.</p>
 
